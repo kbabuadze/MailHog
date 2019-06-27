@@ -118,25 +118,25 @@
 		},
 		{
 			"checksumSHA1": "ITV3qoBKMNZn3GQHMTUHf2NqpGI=",
-			"path": "github.com/mailhog/MailHog-UI",
+			"path": "github.com/kbabuadze/MailHog-UI",
 			"revision": "24b31a47cc5b65d23576bb9884c941d2b88381f7",
 			"revisionTime": "2017-04-16T23:28:50Z"
 		},
 		{
 			"checksumSHA1": "At166WzE7Ma17bS+0FOpT8B28dA=",
-			"path": "github.com/mailhog/MailHog-UI/assets",
+			"path": "github.com/kbabuadze/MailHog-UI/assets",
 			"revision": "24b31a47cc5b65d23576bb9884c941d2b88381f7",
 			"revisionTime": "2017-04-16T23:28:50Z"
 		},
 		{
 			"checksumSHA1": "Sx9nmFV6wOzDqJIALIEEDLJnnEM=",
-			"path": "github.com/mailhog/MailHog-UI/config",
+			"path": "github.com/kbabuadze/MailHog-UI/config",
 			"revision": "24b31a47cc5b65d23576bb9884c941d2b88381f7",
 			"revisionTime": "2017-04-16T23:28:50Z"
 		},
 		{
 			"checksumSHA1": "ks01ED8w5QMi7arlnp9oTfSZP1A=",
-			"path": "github.com/mailhog/MailHog-UI/web",
+			"path": "github.com/kbabuadze/MailHog-UI/web",
 			"revision": "24b31a47cc5b65d23576bb9884c941d2b88381f7",
 			"revisionTime": "2017-04-16T23:28:50Z"
 		},

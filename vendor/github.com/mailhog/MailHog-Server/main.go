@@ -10,7 +10,7 @@ import (
 	"github.com/mailhog/MailHog-Server/api"
 	"github.com/mailhog/MailHog-Server/config"
 	"github.com/mailhog/MailHog-Server/smtp"
-	"github.com/mailhog/MailHog-UI/assets"
+	"github.com/kbabuadze/MailHog-UI/assets"
 	comcfg "github.com/mailhog/MailHog/config"
 	"github.com/mailhog/http"
 )
